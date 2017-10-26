@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork4", "HomeWork4\HomeWork4.csproj", "{F061FF7D-D8BA-40C4-BACA-56D060EC89BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProjectMath", "UnitTestProjectMath\UnitTestProjectMath.csproj", "{02B4DBAC-D77E-465F-BCD0-297D6CE961FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F061FF7D-D8BA-40C4-BACA-56D060EC89BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F061FF7D-D8BA-40C4-BACA-56D060EC89BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F061FF7D-D8BA-40C4-BACA-56D060EC89BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F061FF7D-D8BA-40C4-BACA-56D060EC89BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02B4DBAC-D77E-465F-BCD0-297D6CE961FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02B4DBAC-D77E-465F-BCD0-297D6CE961FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02B4DBAC-D77E-465F-BCD0-297D6CE961FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02B4DBAC-D77E-465F-BCD0-297D6CE961FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
